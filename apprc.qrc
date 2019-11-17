@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="res">
+    <file>images/add.png</file>
+    <file>images/book.png</file>
+    <file>images/layout.png</file>
+    <file>images/minus.png</file>
+    <file>images/upon.png</file>
+  </qresource>
+</RCC>
