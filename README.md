@@ -1,1 +1,1 @@
-"# PDF to Image Converter app using PyQt5" 
+# PDF to Image Converter app using PyQt5
